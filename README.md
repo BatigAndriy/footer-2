@@ -5,7 +5,7 @@ GitHub repo size | GitHub stars | GitHub forks | Twitter Follow | YouTube Video 
 Short description of your project.
 
 ## Demo
-- [Desktop Demo](footer_2)
+- ![Anon Banner](footer_2.jpeg)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -17,14 +17,14 @@ To install, follow these steps:
 ### Linux and macOS:
 ```bash
 sudo git clone https://github.com/BatigAndriy/footer-2
-Windows:
+### Windows:
 bash
 Копіювати код
 git clone clone https://github.com/BatigAndriy/footer-2
-Contact
+### Contact
 If you want to contact me you can reach me at Twitter.
 
-License
+### License
 This project is free to use and does not contain any license.
 
 
