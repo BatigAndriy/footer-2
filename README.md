@@ -1,6 +1,7 @@
 # FOOTER-2
 
-![GitHub repo size](https://img.shields.io/github/BatigAndriy/footer-2)
+![GitHub repo size](https://img.shields.io/github/repo-size/BatigAndriy/footer-2)
+
 
  [LinkedIn](https://www.linkedin.com/in/andriy-batig)
 
