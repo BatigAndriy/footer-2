@@ -1,6 +1,6 @@
 # FOOTER-2
 
- [LinkedIn](https://www.linkedin.com/in/andriy-batig)
+ [LinkedIn](linkedin)(https://www.linkedin.com/in/andriy-batig)
 
 ## Social Media
 - [Twitter](https://twitter.com/yourtwitterhandle)
