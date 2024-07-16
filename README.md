@@ -5,7 +5,7 @@ GitHub repo size | GitHub stars | GitHub forks | Twitter Follow | YouTube Video 
 Short description of your project.
 
 ## Demo
-- ![Anon Banner](footer_2.jpeg)
+- ![Anon Banner](footer_2.jpg)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
