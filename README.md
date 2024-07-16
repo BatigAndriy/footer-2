@@ -1,7 +1,5 @@
 # FOOTER-2
 
-GitHub repo size | GitHub stars | GitHub forks | Twitter Follow | YouTube Video Views
-
 Short description of your project.
 
 ## Demo
@@ -15,12 +13,9 @@ Before you begin, ensure you have met the following requirements:
 To install, follow these steps:
 
 ## Linux and macOS:
-```bash
 sudo git clone https://github.com/BatigAndriy/footer-2
 
 ## Windows:
-bash
-Копіювати код
 git clone clone https://github.com/BatigAndriy/footer-2
 
 ## Contact
