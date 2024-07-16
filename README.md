@@ -1,6 +1,6 @@
 # FOOTER-2
 
-Short description of project:
+## Short description of project:
 A simple and adaptive footer suitable for any website
 
 ## Demo
