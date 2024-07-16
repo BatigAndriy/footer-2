@@ -1,6 +1,7 @@
 # FOOTER-2
 
-Short description of your project.
+Short description of project:
+A simple and adaptive footer suitable for any website
 
 ## Demo
 ![-](footer_2.jpg)
