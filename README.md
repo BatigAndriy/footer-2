@@ -7,13 +7,7 @@
 ![YouTube Video Views](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social)
 
 ## Short description of project:
-The coffee website is beautifully designed, offering an immersive experience for coffee enthusiasts. The homepage features high-resolution images of coffee beans, cups, and brewing equipment. The rich, earthy color scheme creates a warm and inviting atmosphere.
-
-Navigation is intuitive, with sections like "Home," "About," "Services," "Why Us," "Gallery," and "Contact." The "About Us" section introduces Coffee Corner in Berndorf, Germany, highlighting its cozy ambiance and dedication to an exceptional coffee experience. The "Services" section details offerings such as hot and cold beverages, refreshment options, and special combos.
-
-The "Gallery" provides a visual treat with beautiful images, while the "Why Us" section emphasizes delicious food, pleasant ambiance, and outstanding hospitality. The "Contact Us" section makes it easy for visitors to reach out with clear contact information and a user-friendly form.
-
-Overall, the website stands out for its aesthetic appeal and user-friendly design, making it a go-to destination for coffee aficionados.
+A simple and adaptive footer suitable for any website
 
 ## Demo
 ![-](footer_2.jpg)
